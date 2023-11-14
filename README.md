@@ -1,10 +1,7 @@
 # PictionaryAI
 This project seeks to use computer vision to recreate a computer-based game of Pictionary, in which a human player draws an image and the computer attempts to guess the drawing.
 
-# Pictionary
-This project seeks to use computer vision to recreate a computer-based game of Pictionary, in which a human player draws an image and the computer attempts to guess the drawing. We also plan on having the computer generate drawings for the player to guess using Generative Adversarial Networks (GANs).
-
-Check out a demo of our project below!
+Check out a demo of my project below!
 
 https://user-images.githubusercontent.com/47067154/167285584-0c96468b-4442-4f87-98a8-76dd0d3fdfe2.mp4
 
